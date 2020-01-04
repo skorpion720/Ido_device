@@ -1,0 +1,40 @@
+[
+ {
+   "repository": "android_device_qcom_common",
+   "target_path": "device/qcom/common"
+ },
+ {
+   "repository": "android_external_sony_boringssl-compat",
+   "target_path": "external/sony/boringssl-compat"
+ },
+ {
+   "repository": "android_kernel_xiaomi_msm8916",
+   "target_path": "kernel/xiaomi/msm8916"
+ },
+ {
+   "repository": "android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings"
+ }
+ {
+    "repository"  : "DerpFest-OP5T/platform_vendor_pixelstyle",
+    "target_path" : "vendor/pixelstyle"
+  },
+  {
+    "repository"  : "PixelExperience/vendor_gapps",
+    "target_path" : "vendor/gapps",
+    "branch"      : "pie",
+    "remote"      : "gitlab"
+  },
+  {
+    "repository"  : "PixelExperience/packages_apps_WallpapersBReel2018",
+    "target_path" : "packages/apps/WallpapersBReel2018",
+    "branch"      : "pie",
+    "remote"      : "gitlab"
+  },
+  {
+    "repository"  : "PixelExperience/packages_apps_Playground",
+    "target_path" : "packages/apps/Playground",
+    "branch"      : "pie",
+    "remote"      : "gitlab"
+  },
+]
